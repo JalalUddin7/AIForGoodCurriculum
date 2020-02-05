@@ -1,6 +1,6 @@
 # Workshop 1
 
-### Please add any content that is relevant for Workshop 1 to this directory. 
+### Please add any content that is relevant for Workshop 1 to this directory (/Lab1). 
 
 Prerequisites for the Cohort attending the session:
 
