@@ -9,7 +9,7 @@ Prerequisites for the Cohort attending the session:
 - Introduction to Data Science in Azure
 -	Choose the Data Science service in Azure you need
 
-[Publish a Machine Learning Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/learn/paths/publish-experiment-with-ml-studio/)
+[Publish a Machine Learning Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/en-gb/learn/paths/build-ai-solutions-with-azure-ml-service/)
 
 -	Create an Azure Machine Learning Studio Account
 -	Create an Experiment in Azure Machine Learning Studio
