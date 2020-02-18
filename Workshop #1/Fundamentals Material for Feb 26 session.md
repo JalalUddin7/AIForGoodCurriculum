@@ -53,3 +53,4 @@ Here are some more Azure Machine Learning Studio examples to help reflect on how
 ### Using the Command Line Interface (CLI)
 
 - Not *code* but *process*: In [this](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-train-deploy-model-cli) tutorial, you'll use the machine learning extension for the Azure CLI to train, register, and deploy a model.  You'll use Python with scikit-learn to train a basic model, but the focus here is not on the scripts or the model, but the process of using the CLI to work with Azure Machine Learning.  You might then consider a similar approach with some parts of your own scenarios. 
+	
