@@ -13,12 +13,15 @@ This provides some good material to support various starting points in your mach
 * 	Introduction to Data Science in Azure
 * 	Choose the Data Science service in Azure you need
 
-[Publish a Machine Learning Experiment with Microsoft Azure Machine Learning Studio](https://docs.microsoft.com/en-gb/learn/paths/publish-experiment-with-ml-studio/)
 
-* Create an Azure Machine Learning Studio Account
-* Create an Experiment in Azure Machine Learning Studio
+Next, learn how to use the Azure Machine Learning designer to train and deploy a machine learning model that predicts the price of any car. The designer is a drag-and-drop tool that lets you create machine learning models without a single line of code.  **NOTE**: You will need to upgrade to Enterprise to complete this tutorial.
 
-To support this further, we've provided some broader reference material, which may be of use:
+- In this [first part](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score
+) you learn how to use the Azure Machine Learning designer to train the model.
+- In [this](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy) second part, you deploy the model to give others a chance to use it. You generate new predictions based on user input.
+
+
+To support this further, we've provided some broader reference material, which may be of interest:
 
 **Some Machine learing Cheat Sheets:**
 
@@ -35,8 +38,6 @@ It's often not clear which machine learning algorithm would be more appropriate.
 
 Here are some more Azure Machine Learning Studio examples to help reflect on how to solve different sorts of problems using an interface, which you are starting to become familiar with:
 
-- In this [first part](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score) of a two-part tutorial, you learn how to use the Azure Machine Learning designer to train and deploy a machine learning model that predicts the price of any car. The designer is a drag-and-drop tool that lets you create machine learning models without a single line of code.
-- In this [second part](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy) tutorial, you deploy the predictive model developed in the first part to give others a chance to use it. Here, you generate new predictions based on user input.
 - In [this](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml) tutorial, you'll create an automated machine learning experiment through Azure Machine Learning studio without writing a single line of code. This uses classification to predict if a client will subscribe to a fixed term deposit with a financial institution.  Automated machine learning rapidly iterates over many combinations of algorithms and hyperparameters to help you find the best model based on a success metric of your choosing 
 - In [this](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-automated-ml-forecast) tutorial, you use automated machine learning, or automated ML, in the Azure Machine Learning studio to create a time series forecasting model to predict rental demand for a bike sharing service.
 
@@ -52,13 +53,3 @@ Here are some more Azure Machine Learning Studio examples to help reflect on how
 ### Using the Command Line Interface (CLI)
 
 - Not *code* but *process*: In [this](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-train-deploy-model-cli) tutorial, you'll use the machine learning extension for the Azure CLI to train, register, and deploy a model.  You'll use Python with scikit-learn to train a basic model, but the focus here is not on the scripts or the model, but the process of using the CLI to work with Azure Machine Learning.  You might then consider a similar approach with some parts of your own scenarios. 
-
-
-
-
-
-
-
-
-
-
