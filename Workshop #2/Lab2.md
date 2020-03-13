@@ -7,25 +7,36 @@ Work through the following mini-courses on mslearn:
 - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-gb/learn/paths/translate-speech-with-speech-services/)
 - [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-gb/learn/paths/build-ai-solutions-with-azure-ml-service/)
 
+- ask about local/vs remote
+- get a sense if people have prepared prerequets
+verify all have access to their organisation subscription!
 
 ### Plan for the day
 |Session |Focus |
 |--|--|
-|9:30 - 10:30 | Presentation: Andrew Quinn |
-|Morning | Pick from Theme 1 or 2 |
-|13:30 - 14:15| Presentation and Discussion: Responsible AI in Practice |
+|9:30 - 11:00 | Presentation: Andrew Quinn - AI for Earth and Sustainability (Intro the kiosk)|
+|Morning 12:30 | Pick from Theme 1 or 2 |
+|13:30 - 14:15| Presentation and Discussion: Responsible AI in Practice - Benedict & Linda|
 |Afternoon| Theme 3: ML Ops hands on: manage datasets, models, and experiments with AzureML |
 
 
 
 
 ## Theme 1: Working with Cognitive Language Services
-[specific labs tbc]
+[What are the language services - high level index]
+to interact with the cognitive services with the intelligent Kiosk
+
+to interact with the cognitive services with python
+add 
+https://github.com/caiomsouza/Microsoft-Cognitive-Services
+-pick out specific hands on pieces from the prequisites
 
 ## Theme 2: Working with Cognitve Speech Services
+[What are the language services - high level index]
 [specific labs tbc]
 
-## Theme 3: Introduction to MLOps
+
+## Theme 3: ML Workflows: Manage datasets, models, and experiments with AzureML
 [specific labs tbc]
 
 
