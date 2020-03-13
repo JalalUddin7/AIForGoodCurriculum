@@ -48,15 +48,20 @@ This is our first fully remote session. We want to try and emulate the feeling o
 |14:30 - 17:00 | [Hands-on session 2:](hands-on-session2/lab2-2-guide.md) **Integrating pre-trained models into your data pipeline or application** |
 |17:00 - 17:30 | Session playback and debrief |
 
+<pre>
+
+
+</pre>
 
 ### Notes on the session content
 Within the detailed session guids linked above, we've denoted types of session content as follows, to help you choose your content for the day:
 |badge|content type|
 |--|--|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)| This content will guide you through interacting with the Azure portal, or otherwise be interactive in a way that requires no particular coding skills |
+|[![Generic badge](https://img.shields.io/badge/mode-azure_cli-TEAL.svg)](https://shields.io/)| Work with the azure cli to provision and manage resources|
 |[![Generic badge](https://img.shields.io/badge/mode-python-PURPLE.svg)](https://shields.io/)| Content for python developers |
 |[![Generic badge](https://img.shields.io/badge/mode-nodejs-GREEN.svg)](https://shields.io/)| Content for node.js developers |
-
+|etc..|etc...|
 <pre>
 
 </pre>

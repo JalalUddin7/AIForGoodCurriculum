@@ -1,4 +1,8 @@
+[< back](../Lab2.md)
+
 # Lab 2.1: Getting started with Cognitive Services
+Duration: 1 - 1.5 hours
+
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
 This introduces you to to working with pre-trained models from the Azure Cognitive Services. We will focus on the **[tbc] Service** as an example.
