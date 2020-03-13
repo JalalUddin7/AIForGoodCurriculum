@@ -11,13 +11,27 @@ This introduces you to to working with pre-trained models from the Azure Cogniti
 ## Explore the cognitive services with the Intelligent Kiosk
 [![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
 
-[To Do: add instructions to install the intelligent kiosk locally]
+[To Do]
+- add instructions to install the intelligent kiosk locally from the publicly downloadable app (limited public service instances)
+- add instructions to install the kiosk with own service instances
+- walk through one example in kiosk - point to [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) for others
 
-## To interact with the cognitive services with python
-[![Generic badge](https://img.shields.io/badge/mode-python-PURPLE.svg)](https://shields.io/)
+[Consider adapting part of these instructions generally as a lab setup so that participants have all the cognitive service instances:]
+
+[Lab Setup](../Lab-Setup/lab2-setup.md)
+
+
+
+
+## Interact with the cognitive services with python
+[![Generic badge](https://img.shields.io/badge/language-python-PURPLE.svg)](https://shields.io/)
+
+
+[Candidate links/labs:]
 
 [To Do: briefly describe what this code achieves]
-https://github.com/caiomsouza/Microsoft-Cognitive-Services
+- https://github.com/caiomsouza/Microsoft-Cognitive-Services
+- https://github.com/caiomsouza/Microsoft-Cognitive-Services/tree/master/textanalytics
 
 [To Do: pick out specific hands on pieces from the prequisites]
 

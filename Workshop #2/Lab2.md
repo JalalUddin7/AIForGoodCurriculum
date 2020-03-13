@@ -41,11 +41,11 @@ This is our first fully remote session. We want to try and emulate the feeling o
 |--|--|
 |9:30 - 10:45 | Presentation: **AI for Earth and Sustainability** - *Andrew Quinn* |
 |10:45 - 11:00 | - *Break* -  |
-|11:00 - 12:30 | [Hands-on session 1: ](hands-on-session1/lab2-1.md) **Getting started with Cognitive Services**|
+|11:00 - 12:30 | [Hands-on session 1: ](hands-on-session1/lab2-1-guide.md) **Getting started with Cognitive Services**|
 |12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
 |13:30 - 14:15 | [Presentation:](additional_material/presentation2.md) **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
 |14:15 - 14:30 | - *Break* - |
-|14:30 - 17:00 | [Hands-on session 2:](hands-on-session2/lab2-2.md) **Integrating pre-trained models into your data pipeline or application** |
+|14:30 - 17:00 | [Hands-on session 2:](hands-on-session2/lab2-2-guide.md) **Integrating pre-trained models into your data pipeline or application** |
 |17:00 - 17:30 | Session playback and debrief |
 
 
@@ -68,5 +68,20 @@ Within the detailed session guids linked above, we've denoted types of session c
 
 (Please follow the links in the plan above for the main workshop content.)
 
-- [Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
+[To DO - clean up - just a collection of possibles for now]
+
+- [General Productivity Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
+- [Cognitive Services Quickstarts](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
+    - try out alternative SDKs
+- https://github.com/Azure-Samples/cognitive-services-qnamaker-csharp
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/javascript/node
+    - Quickstart: Recognize speech in JavaScript on Node.js.
+- https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/
+    - Recognise speech from a microphone
+
+Advanced:
+- https://github.com/Azure-Samples/gaming-cognitive-services-text-translation
+
+Other - not relevant, but note!
+- (https://github.com/Azure-Samples/AzureMLWorkshop)
 
