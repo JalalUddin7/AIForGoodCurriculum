@@ -3,7 +3,9 @@
 ### Prerequisites for the Cohort attending the session:
 
 <hr>
+
 **Please ensure that all attendees have access to their organisation's subscriptions, and that they are able to provision resources within them.**
+
 <hr>
 
 Work through the following mini-courses on mslearn:
@@ -13,9 +15,14 @@ Work through the following mini-courses on mslearn:
 
 ## Ways of working
 
-This is our first fully remote session.
+This is our first fully remote session. We want to try and emulate the feeling of being in a room together as much as we can, and we ask you to support us in this effort:
+- 🙈 Please consider turning video on. (Note the ['blur background' feature](https://support.office.com/en-us/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780)!)
+- 🙋 Do not hesitate to interact with us and with each other, throughout presentations and sessions, either via chat or via voice 
+- 👋 It is fine to step away during sessions if you need to, but please let us know with a quick note in the chat if you do so.
+- 👾 GIFs, memes and fun in the chat are allowed (within the normal SFW bounds of course). Enjoy the day!
 
-[any additional pointers here - e.g feedback, whiteboard, interactivity in teams]
+
+
 
 <pre>
 
