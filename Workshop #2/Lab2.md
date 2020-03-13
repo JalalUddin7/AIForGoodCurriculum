@@ -2,7 +2,9 @@
 
 ### Prerequisites for the Cohort attending the session:
 
-❗️❗️ **Please ensure that all attendees have access to their organisation's subscriptions and are able to provision resources within them.** ❗️❗️
+<hr>
+**Please ensure that all attendees have access to their organisation's subscriptions, and that they are able to provision resources within them.**
+<hr>
 
 Work through the following mini-courses on mslearn:
 - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-gb/learn/paths/evaluate-text-with-language-services/)
@@ -31,13 +33,12 @@ This is our first fully remote session
 |9:30 - 11:00 | Presentation: Andrew Quinn - AI for Earth and Sustainability |
 |11:00 - 12:30 | Hands-on Lab 1: Getting started with Cognitive Services |
 |12:30 - 13:30 | Lunch break - Microsoft team available in teams for discussion and questions |
-|13:30 - 14:15 | Presentation: Responsible AI in Practice - Benedict Faria & Linda C M Sheard |
+|13:30 - 14:15 | Presentation: Benedict Faria & Linda C M Sheard - Responsible AI in Practice |
 |14:15 - 17:00 | Hands-on Lab 2: Integrating pre-trained models into your data pipeline |
 |17:00 - 17:30 | Session playback and debrief |
 
 
 <pre>
-
 
 
 </pre>
@@ -70,7 +71,6 @@ https://github.com/caiomsouza/Microsoft-Cognitive-Services
 <pre>
 
 
-
 </pre>
 
 # Lab 2: Working with Cognitve Speech Services
@@ -84,7 +84,6 @@ In this session, we will look closer at how to integrate pretrained models into 
 
 
 <pre>
-
 
 
 </pre>
