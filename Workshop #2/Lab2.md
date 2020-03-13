@@ -2,23 +2,21 @@
 
 AI for Good Technical Track, 19 March 2020,  9:30 - 17:30
 
+Location: Teams virtual session
+
 <pre>
 
 </pre>
 
 ## Prerequisites for the Cohort attending the session:
 
-Access:
+1. Access:
 
-<hr>
+   <span style="color:red">***Please ensure that all attendees have access to their organisation's subscriptions, and that they are able to provision resources within them.***</span>
 
-<span style="color:red">**Please ensure that all attendees have access to their organisation's subscriptions, and that they are able to provision resources within them.**</span>
-
-<hr>
-
-Work through the following mini-courses on mslearn:
-- [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-gb/learn/paths/evaluate-text-with-language-services/)
-- [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-gb/learn/paths/translate-speech-with-speech-services/)
+2. Work through the following mini-courses on mslearn:
+   - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-gb/learn/paths/evaluate-text-with-language-services/)
+   - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-gb/learn/paths/translate-speech-with-speech-services/)
 
 <pre>
 
@@ -39,18 +37,16 @@ This is our first fully remote session. We want to try and emulate the feeling o
 </pre>
 ## The Plan for the Day
 
-[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
-
 |Session |Focus |
 |--|--|
-|9:30 - 10:45 | Presentation: AI for Earth and Sustainability - *Andrew Quinn* |
-|11:00 - 12:30 | [**Hands-on session 1**](hands-on-session1/lab2-1.md): Getting started with Cognitive Services |
-|12:30 - 13:30 | Lunch break - Microsoft team available in teams for discussion and questions |
-|13:30 - 14:15 | [Presentation](additional_material/presentation2.md): Responsible AI in Practice - *Benedict Faria & Dr Linda C M Sheard* |
-|14:30 - 16:45 | [**Hands-on session 2**](hands-on-session2/lab2-2.md): Integrating pre-trained models into your data pipeline |
+|9:30 - 10:45 | Presentation: **AI for Earth and Sustainability** - *Andrew Quinn* |
+|10:45 - 11:00 | - *Break* -  |
+|11:00 - 12:30 | [Hands-on session 1: ](hands-on-session1/lab2-1.md) **Getting started with Cognitive Services**|
+|12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
+|13:30 - 14:15 | [Presentation:](additional_material/presentation2.md) **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
+|14:15 - 14:30 | - *Break* - |
+|14:30 - 17:00 | [Hands-on session 2:](hands-on-session2/lab2-2.md) **Integrating pre-trained models into your data pipeline or application** |
 |17:00 - 17:30 | Session playback and debrief |
-
-
 
 <pre>
 
@@ -58,14 +54,10 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 <hr>
 
-## Additional Optional Content
+### Additional Optional Content
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
 Please follow the links in the plan above for the main workshop content.
 
 - [Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
-
-
-
-
 
