@@ -41,13 +41,13 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 |Session |Focus |
 |--|--|
-|9:30 - 10:45 | Presentation: AI for Earth and Sustainability - *Andrew Quinn* |
+|9:30 - 10:45 | Presentation: **AI for Earth and Sustainability** - *Andrew Quinn* |
 |10:45 - 11:00 | - *Break* -  |
-|11:00 - 12:30 | **Hands-on session 1**: Getting started with Cognitive Services |
-|12:30 - 13:30 | Lunch break - Microsoft team available in teams for discussion and questions |
-|13:30 - 14:15 | Presentation: Responsible AI in Practice - *Benedict Faria & Dr Linda C M Sheard* |
+|11:00 - 12:30 | Hands-on session 1: **Getting started with Cognitive Services** |
+|12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
+|13:30 - 14:15 | Presentation: **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
 |14:15 - 14:30 | - *Break* - |
-|14:30 - 17:00 | **Hands-on session 2**: Integrating pre-trained models into your data pipeline or application |
+|14:30 - 17:00 | Hands-on session 2: **Integrating pre-trained models into your data pipeline or application** |
 |17:00 - 17:30 | Session playback and debrief |
 
 
