@@ -28,8 +28,6 @@ This is our first fully remote session.
 
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
-[TODO: add breaks]
-
 |Session |Focus |
 |--|--|
 |9:30 - 10:45 | Presentation: AI for Earth and Sustainability - *Andrew Quinn* |
