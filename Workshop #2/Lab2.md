@@ -37,8 +37,6 @@ This is our first fully remote session. We want to try and emulate the feeling o
 </pre>
 ## The Plan for the Day
 
-[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
-
 |Session |Focus |
 |--|--|
 |9:30 - 10:45 | Presentation: **AI for Earth and Sustainability** - *Andrew Quinn* |
