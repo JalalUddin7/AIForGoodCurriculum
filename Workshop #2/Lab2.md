@@ -76,6 +76,13 @@ Within the detailed session guids linked above, we've denoted types of session c
 [To DO - clean up - just a collection of possibles for now]
 
 - [General Productivity Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
+
+Fundamentals Reference:
+- [Walkthroughs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
+
+
+Cognitive Services:
+
 - [Cognitive Services Quickstarts](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
     - try out alternative SDKs
 - https://github.com/Azure-Samples/cognitive-services-qnamaker-csharp
@@ -83,6 +90,9 @@ https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quick
     - Quickstart: Recognize speech in JavaScript on Node.js.
 - https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/
     - Recognise speech from a microphone
+
+AI-100
+- https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
 
 Advanced:
 - https://github.com/Azure-Samples/gaming-cognitive-services-text-translation
