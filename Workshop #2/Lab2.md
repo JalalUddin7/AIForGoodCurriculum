@@ -1,70 +1,126 @@
-# Workshop 2 - hands-on lab
+# Workshop 2 - 2nd Fundamentals Session
 
 ### Prerequisites for the Cohort attending the session:
+
+❗️❗️ **Please ensure that all attendees have access to their organisation's subscriptions and are able to provision resources within them.** ❗️❗️
 
 Work through the following mini-courses on mslearn:
 - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-gb/learn/paths/evaluate-text-with-language-services/)
 - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-gb/learn/paths/translate-speech-with-speech-services/)
-- [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-gb/learn/paths/build-ai-solutions-with-azure-ml-service/)
 
-- ask about local/vs remote
-- get a sense if people have prepared prerequets
-verify all have access to their organisation subscription!
 
-### Plan for the day
+## Ways of working
+
+This is our first fully remote session
+
+[any additional pointers here - e.g feedback, whiteboard, interactivity in teams]
+
+<pre>
+
+
+</pre>
+
+
+
+## The Plan for the Day
+
+[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
+
 |Session |Focus |
 |--|--|
-|9:30 - 11:00 | Presentation: Andrew Quinn - AI for Earth and Sustainability (Intro the kiosk)|
-|Morning 12:30 | Pick from Theme 1 or 2 |
-|13:30 - 14:15| Presentation and Discussion: Responsible AI in Practice - Benedict & Linda|
-|Afternoon| Theme 3: ML Ops hands on: manage datasets, models, and experiments with AzureML |
+|9:30 - 11:00 | Presentation: Andrew Quinn - AI for Earth and Sustainability |
+|11:00 - 12:30 | Hands-on Lab 1: Getting started with Cognitive Services |
+|12:30 - 13:30 | Lunch break - Microsoft team available in teams for discussion and questions |
+|13:30 - 14:15 | Presentation: Responsible AI in Practice - Benedict Faria & Linda C M Sheard |
+|14:15 - 17:00 | Hands-on Lab 2: Integrating pre-trained models into your data pipeline |
+|17:00 - 17:30 | Session playback and debrief |
+
+
+<pre>
 
 
 
+</pre>
+<hr>
 
-## Theme 1: Working with Cognitive Language Services
-[What are the language services - high level index]
-to interact with the cognitive services with the intelligent Kiosk
 
-to interact with the cognitive services with python
-add 
+# Lab 1: Getting started with Cognitive Services
+[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
+
+This introduces you to to working with pre-trained models from the Azure Cognitive Services. We will focus on the **[tbc] Service** as an example.
+
+<img src=https://docs.microsoft.com/en-us/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator.svg/>
+<img src=https://docs.microsoft.com/en-us/learn/achievements/data-ai/create-and-publish-a-luis-model.svg>
+<img src=https://docs.microsoft.com/en-us/learn/achievements/classify-user-feedback-with-the-text-analytics-api.svg>
+
+
+## Explore the cognitive services with the Intelligent Kiosk
+[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
+
+[To Do: add instructions to install the intelligent kiosk locally]
+
+## To interact with the cognitive services with python
+[![Generic badge](https://img.shields.io/badge/mode-python-PURPLE.svg)](https://shields.io/)
+
+[To Do: briefly describe what this code achieves]
 https://github.com/caiomsouza/Microsoft-Cognitive-Services
--pick out specific hands on pieces from the prequisites
 
-## Theme 2: Working with Cognitve Speech Services
-[What are the language services - high level index]
-[specific labs tbc]
+[To Do: pick out specific hands on pieces from the prequisites]
 
-
-## Theme 3: ML Workflows: Manage datasets, models, and experiments with AzureML
-[specific labs tbc]
+<pre>
 
 
 
+</pre>
 
-## Additional Material 
-###Some tips and tricks to feel at home in the cloud:
+# Lab 2: Working with Cognitve Speech Services
+[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
-From the Azure ML documentation, you will have got a good idea of the intended use of the `Datasets` feature to manage, version, and track your datasets through the ML development process. Sometimes, however, you just want to get started quickly with some data for some brief experiements, 
+In this session, we will look closer at how to integrate pretrained models into your data pipelines and applications.
+[To Do: specify the relevant services - perhaps offer a vision choice too ]
 
-### Connect to your DSVM from VS code
+
+
+
+
+<pre>
+
+
+
+</pre>
+<hr>
+
+# Additional Material 
+[![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
+
+### Some tips and tricks to feel at home in the cloud:
+
+From the Azure ML lab in the first fundamentals session, you will have got a good idea of the intended use of the `Datasets` feature to manage, version, and track your datasets through the ML development process. Sometimes, however, you just want to get started quickly with some data for some brief experiements: 
+
+#### Connect to your DSVM from VS code
 VS code has a great little trick to feel like you've really beefed up your local machine: Develop as if on your local machine, but execute on a remote machine, such as your Azure ML Data Science Virtual Machine (DSVM).
 
-Create a DSVM in Azure ML with SSH option enabled
+- Create a DSVM in Azure ML with SSH option enabled
+- Create an SSH Key
+- Install VSCode Remote Development Pack
+- Update config file (via command menu)
+- Connect to Remote
 
-Create an SSH Key
+#### Mount blob storage into your AML Virtual Machines with blobFuse
 
-Install VSCode Remote Development Pack
+[Add instructions here]
 
-Update config file (via command menu)
-
-Connect to Remote
-
-### Mount blob storage into your DSVM with blobFuse
+<pre>
 
 
+</pre>
 
 
 ### Configure your browser as an Azure Portal app on your machine 
+[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
+
+[Add instructions here]
+<pre>
 
 
+</pre>
