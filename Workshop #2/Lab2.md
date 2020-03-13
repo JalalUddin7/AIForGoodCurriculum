@@ -2,9 +2,13 @@
 
 AI for Good Technical Track, 19 March 2020,  9:30 - 17:30
 
-### _ 
+<pre>
+
+</pre>
 
 ## Prerequisites for the Cohort attending the session:
+
+Access:
 
 <hr>
 
@@ -16,7 +20,9 @@ Work through the following mini-courses on mslearn:
 - [Evaluate text with Azure Cognitive Language Services](https://docs.microsoft.com/en-gb/learn/paths/evaluate-text-with-language-services/)
 - [Process and translate speech with Azure Cognitive Speech Services](https://docs.microsoft.com/en-gb/learn/paths/translate-speech-with-speech-services/)
 
-### _
+<pre>
+
+</pre>
 ## Ways of working
 
 This is our first fully remote session. We want to try and emulate the feeling of being in a room together as much as we can, and we ask you to support us in this effort:
@@ -28,7 +34,9 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 
 
-### _
+<pre>
+
+</pre>
 ## The Plan for the Day
 
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
@@ -43,10 +51,14 @@ This is our first fully remote session. We want to try and emulate the feeling o
 |17:00 - 17:30 | Session playback and debrief |
 
 
+
+<pre>
+
+</pre>
+
 <hr>
 
-### _
-### Additional Optional Content
+## Additional Optional Content
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
 Please follow the links in the plan above for the main workshop content.
