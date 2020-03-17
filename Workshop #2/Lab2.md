@@ -2,7 +2,7 @@
 
 AI for Good Technical Track, 19 March 2020,  9:30 - 17:30
 
-Location: Teams virtual session
+Location: Teams virtual session - [Join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWIxYjFkNjUtYzA2Zi00OTUxLTg1OTYtODk0YzMwMjVlZmE0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22b89532a6-40e5-426c-8f04-e44231729997%22%7d)
 
 <pre>
 
