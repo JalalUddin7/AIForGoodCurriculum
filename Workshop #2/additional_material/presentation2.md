@@ -1,11 +1,16 @@
+[< back](../Lab2.md)
+
 # Responsible AI in Practice
 [Dr Linda C M Sheard](https://www.linkedin/in/lindacmg)
 
 [Benedict Faria](https://www.linkedin.com/in/benedict-faria-117a51/)
 
+<img src='./img/presentation2.jpg'/>
+
 <hr>
 [-- shared link to presentation deck and replay to follow --]
 <hr>
+
 
 ## Links and references
 #### Envisioning

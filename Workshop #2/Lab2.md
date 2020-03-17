@@ -39,7 +39,7 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 |Session |Focus |
 |--|--|
-|9:30 - 10:45 | [Presentation:](additional_material/presentation2.md) **AI for Earth and Sustainability** - *Andrew Quinn* |
+|9:30 - 10:45 | [Presentation:](additional_material/presentation1.md) **AI for Earth and Sustainability** - *Andrew Quinn* |
 |10:45 - 11:00 | - *Break* -  |
 |11:00 - 12:30 | [Hands-on session 1: ](#Hands-on-session-1) **Getting started with Cognitive Services**|
 |12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
