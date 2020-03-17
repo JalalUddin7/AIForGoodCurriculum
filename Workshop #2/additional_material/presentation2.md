@@ -5,7 +5,7 @@
 
 [Benedict Faria](https://www.linkedin.com/in/benedict-faria-117a51/)
 
-<img src='./img/presentation2.jpg'/>
+<img src='./img/presentation2.jpg' border=2 width=70% />
 
 <hr>
 [-- shared link to presentation deck and replay to follow --]
