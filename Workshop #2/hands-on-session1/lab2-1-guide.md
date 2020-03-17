@@ -110,3 +110,5 @@ For those of you with python skills, here is some sample code to help you learn 
 
 
 </pre>
+
+[next >](../Lab2.md#The-Plan-for-the-Day)
