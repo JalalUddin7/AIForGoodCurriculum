@@ -10,7 +10,7 @@ We're going to start with a run through of the fundamentals of data science, and
 - learn how to **deploy** a model so that it is available for inference via an API ([Lab1 - part 2](Workshop%20%231/Lab1.md))
 - know where to find additional labs that walk through some other machine learning scenarios at the foundational level, with further code-free and python options ([Fundamentals Material](Workshop%20%23#1/Fundamentals%20Material%20for%20Feb%2026%20session.md))
 
-## [Workshop 2](Workshop%20%232)
+## [Workshop 2](Workshop%20%232/Lab2.md)
 *19 March 2020*
 
 This session focusses on an exploration of the Azure Cognitive Services, a series of pre-trained and customisable models that you can integrate into your applications.
