@@ -1,4 +1,4 @@
-[< back](../Lab2.md)
+[< back](../Lab2.md#The-Plan-for-the-Day)
 
 # Lab 2.1: Getting started with Cognitive Services
 Duration: 1 - 1.5 hours

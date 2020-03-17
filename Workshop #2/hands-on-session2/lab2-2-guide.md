@@ -1,4 +1,4 @@
-[< back](../Lab2.md)
+[< back](../Lab2.md#The-Plan-for-the-Day)
 
 # Lab 2: Working with Cognitve Speech Services
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
