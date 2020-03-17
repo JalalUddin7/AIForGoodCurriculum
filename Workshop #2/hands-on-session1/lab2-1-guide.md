@@ -87,7 +87,7 @@ Add your API keys to the 'settings' page of the Kiosk application.
 
 Explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) for relevance to your business 
 
-
+## 3. Connect to your Cognitive Service
 ### To interact with the cognitive services with python
 
 [![Generic badge](https://img.shields.io/badge/language-python-YELLOW.svg)](https://shields.io/)
