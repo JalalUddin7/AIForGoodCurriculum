@@ -55,10 +55,29 @@ In this section, we will show you how to obtain your own API keys for cognitive 
 
 You can connect these to your Kiosk, or explore below other ways of interacting with these service instances.
 
-[TODO: adpt this:]
-[Lab Setup](../Lab-Setup/lab2-setup.md)
+**Option 1:** Use the Azure portal - an example
 
-**Option 1**: Connect your APIs to your Kiosk application
+[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
+
+Here, we'll use the Azure portal to obtain your own API key for the [tbc] service that you will also be working with this afternoon.
+
+<pre>
+
+TODO: add or link instructions
+
+</pre>
+
+
+**Option 2:** Set up all required services with an azure-cli script 
+
+[![Generic badge](https://img.shields.io/badge/mode-azure_cli-TEAL.svg)](https://shields.io/)
+
+The following script provisions an instance of the cognitive services required by the Intelligent Kiosk, and returns your API key.
+
+[ToDo - verify this works]
+https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk/blob/master/KeyAcquisitionScript.md
+
+### To Connect your APIs to your Kiosk application
 
 [![Generic badge](https://img.shields.io/badge/language-no_code-BLUE.svg)](https://shields.io/)
 
@@ -69,7 +88,7 @@ Add your API keys to the 'settings' page of the Kiosk application.
 Explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) for relevance to your business 
 
 
-**Option 2**: Interact with the cognitive services with python
+### To interact with the cognitive services with python
 
 [![Generic badge](https://img.shields.io/badge/language-python-YELLOW.svg)](https://shields.io/)
 
