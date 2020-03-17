@@ -45,8 +45,8 @@ This is our first fully remote session. We want to try and emulate the feeling o
 |12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
 |13:30 - 14:15 | [Presentation:](additional_material/presentation2.md) **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
 |14:15 - 14:30 | - *Break* - |
-|14:30 - 17:00 | [Hands-on session 2:](#Hands-on-session-2) **Integrating pre-trained models into your data pipeline or application** |
-|17:00 - 17:30 | Session playback and debrief |
+|14:30 - 16:30 | [Hands-on session 2:](#Hands-on-session-2) **Integrating pre-trained models into your data pipeline or application** |
+|16:30 - 17:30 | Session playback and debrief |
 
 <pre>
 
