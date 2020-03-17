@@ -6,8 +6,13 @@
 In this session, we will look closer at how to integrate pretrained models into your data pipelines and applications.
 [To Do: specify the relevant services - perhaps offer a vision choice too ]
 
+ensure we have teams tips
 
-
+use the python quickstart microphone 
+put guidance on jupyter notebooks
+- via notebooks.azure.com
+- via DSVM in AML
+- (locally don't push this)
 
 
 <pre>
