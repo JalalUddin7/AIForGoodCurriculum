@@ -104,35 +104,36 @@ Within the detailed session guids linked above, we've denoted types of session c
 
 <hr>
 
-### Additional Optional Content
+### Additional optional content and further reading
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
-(Please follow the links in the plan above for the main workshop content.)
+*(Please follow the links in the plan above for the main workshop content.)*
 
-[To DO - clean up - just a collection of possibles for now]
+General
+- [Productivity Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
 
-- [General Productivity Tips and Tricks](additional_materials/lab2-tips_and_tricks.md)
+Azure Platform Fundamentals Reference (AZ-900):
+- [Practical walkthroughs for common platform tasks](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
 
-Fundamentals Reference:
-- [Walkthroughs](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
-
+AI-100
+- The top level link for the AI 100 labs of Track 2 above is [here](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol).
 
 Cognitive Services:
 
-- [Cognitive Services Quickstarts](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
-    - try out alternative SDKs
-- https://github.com/Azure-Samples/cognitive-services-qnamaker-csharp
-https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/javascript/node
-    - Quickstart: Recognize speech in JavaScript on Node.js.
-- https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/
-    - Recognise speech from a microphone
+- try out alternative SDKs here: [Cognitive Services Quickstarts](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
 
-AI-100
-- https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol
+- explore QNAmaker with C# in with this [sample](https://github.com/Azure-Samples/cognitive-services-qnamaker-csharp)
+- Recognize speech in JavaScript on Node.js: [Quickstart](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/javascript/node)
+- Recognise speech from a microphone in python: [Quickstart](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/)
+    
 
-Advanced:
+
+Advanced end-to-end sample implementations:
 - https://github.com/Azure-Samples/gaming-cognitive-services-text-translation
 
-Other - not relevant, but note!
+
+<!--- 
+Other - not relevant today, but note!
 - (https://github.com/Azure-Samples/AzureMLWorkshop)
+-->
 
