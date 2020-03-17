@@ -60,7 +60,7 @@ This is our first fully remote session. We want to try and emulate the feeling o
 We want to offer you two tracks. One will assume minimal coding skills as a pre-requisite. The other enables you start on an extended series of labs that assume some familiarity with Visual Studio and C# - we are happy to support you through this if you are keen to learn.
 
 | Track 1: | Track 2: |
-|--|--|
+|:---------|:---------|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
 |[Set up and explore the Intelligent Kiosk](Workshop%20%232/hands-on-session1/lab2-1-guide.md)|[AI-100 Lab1](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab1-Technical_Requirements/01-Introduction_Case_Study.md) Lab Series Setup - Technology, environments, and keys|
 
