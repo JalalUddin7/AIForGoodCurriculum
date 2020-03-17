@@ -39,13 +39,13 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 |Session |Focus |
 |--|--|
-|9:30 - 10:45 | Presentation: **AI for Earth and Sustainability** - *Andrew Quinn* |
+|9:30 - 10:45 | [Presentation:](additional_material/presentation2.md) **AI for Earth and Sustainability** - *Andrew Quinn* |
 |10:45 - 11:00 | - *Break* -  |
-|11:00 - 12:30 | [Hands-on session 1: ](hands-on-session1/lab2-1-guide.md) **Getting started with Cognitive Services**|
+|11:00 - 12:30 | [Hands-on session 1: ](#Hands-on-session-1) **Getting started with Cognitive Services**|
 |12:30 - 13:30 | - *Lunch break: Informal discussion and questions in teams channel* - |
 |13:30 - 14:15 | [Presentation:](additional_material/presentation2.md) **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
 |14:15 - 14:30 | - *Break* - |
-|14:30 - 17:00 | [Hands-on session 2:](hands-on-session2/lab2-2-guide.md) **Integrating pre-trained models into your data pipeline or application** |
+|14:30 - 17:00 | [Hands-on session 2:](#Hands-on-session2) **Integrating pre-trained models into your data pipeline or application** |
 |17:00 - 17:30 | Session playback and debrief |
 
 <pre>
@@ -53,13 +53,50 @@ This is our first fully remote session. We want to try and emulate the feeling o
 
 </pre>
 
+
+## Hands-on session 1 
+**Getting started with Cognitive Services**
+
+We want to offer you two tracks. One will assume minimal coding skills as a pre-requisite. The other enables you start on an extended series of labs that assume some familiarity with Visual Studio and C# - we are happy to support you through this if you are keen to learn.
+
+| Track 1: | Track 2: |
+|--|--|
+|[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
+|[Set up and explore the Intelligent Kiosk](Workshop%20%232/hands-on-session1/lab2-1-guide.md)|[AI-100 Lab1](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab1-Technical_Requirements/01-Introduction_Case_Study.md) Lab Series Setup - Technology, environments, and keys|
+
+<pre>
+
+
+</pre>
+
+## Hands-on session 2
+**Integrating Cognitive Services into applications**
+
+We want to offer you two tracks. One will assume minimal coding skills as a pre-requisite. The other enables you start on an extended series of labs related to our AI 100 AI Engineer certification that assume some familiarity with Visual Studio and C# - we are happy to support you through this if you are keen to learn.
+
+| Track 1: | Track 2: |
+|--|--|
+|[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
+|[tbc - end-to-end application that uses a langague/speech service]|[AI-100 Lab2](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab2-Implement_Computer_Vision/01-Introduction.md) Create an intelligent console application for the Computer Vision API|
+
+
+
+
+<pre>
+
+
+</pre>
+
+<hr>
+
 ### Notes on the session content
 Within the detailed session guids linked above, we've denoted types of session content as follows, to help you choose your content for the day:
 |badge|content type|
 |--|--|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)| This content will guide you through interacting with the Azure portal, or otherwise be interactive in a way that requires no particular coding skills |
 |[![Generic badge](https://img.shields.io/badge/mode-azure_cli-TEAL.svg)](https://shields.io/)| Work with the azure cli to provision and manage resources|
-|[![Generic badge](https://img.shields.io/badge/mode-python-PURPLE.svg)](https://shields.io/)| Content for python developers |
+|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)| Content for c# developers |
+|[![Generic badge](https://img.shields.io/badge/mode-python-YELLOW.svg)](https://shields.io/)| Content for python developers |
 |[![Generic badge](https://img.shields.io/badge/mode-nodejs-GREEN.svg)](https://shields.io/)| Content for node.js developers |
 |etc..|etc...|
 <pre>
