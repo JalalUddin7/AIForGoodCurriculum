@@ -19,7 +19,7 @@ This session introduces you to to working with pre-trained models from the Azure
 
 [![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
 
-Great for an initial look. This version uses some preconfigured API keys so you can get going straight away.
+The pre-compiled Kiosk is great for an initial look. This version uses some preconfigured API keys so you can get going straight away.
 
 Step 1: Download the Kiosk app from the Microsoft App Store here: https://www.microsoft.com/en-gb/p/intelligent-kiosk/9nblggh5qd84
 
