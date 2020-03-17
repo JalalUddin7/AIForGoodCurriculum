@@ -28,7 +28,7 @@ This introduces you to to working with pre-trained models from the Azure Cogniti
 
 
 ## Interact with the cognitive services with python
-[![Generic badge](https://img.shields.io/badge/language-python-PURPLE.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/language-python-YELLOW.svg)](https://shields.io/)
 
 
 [Candidate links/labs:]

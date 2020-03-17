@@ -72,10 +72,9 @@ We want to offer you two tracks. One will assume minimal coding skills as a pre-
 ## Hands-on session 2
 **Integrating Cognitive Services into applications**
 
-We want to offer you two tracks. One will assume minimal coding skills as a pre-requisite. The other enables you start on an extended series of labs related to our AI 100 AI Engineer certification that assume some familiarity with Visual Studio and C# - we are happy to support you through this if you are keen to learn.
 
 | Track 1: | Track 2: |
-|--|--|
+|:---------|:---------|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
 |[tbc - end-to-end application that uses a langague/speech service]|[AI-100 Lab2](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab2-Implement_Computer_Vision/01-Introduction.md) Create an intelligent console application for the Computer Vision API|
 
