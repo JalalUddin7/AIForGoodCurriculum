@@ -62,7 +62,7 @@ We want to offer you two tracks. One will assume minimal coding skills as a pre-
 | Track 1: | Track 2: |
 |:---------|:---------|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
-|[Set up and explore the Intelligent Kiosk](Workshop%20%232/hands-on-session1/lab2-1-guide.md)|[AI-100 Lab1](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab1-Technical_Requirements/01-Introduction_Case_Study.md) Lab Series Setup - Technology, environments, and keys|
+|[Set up and explore the Intelligent Kiosk](hands-on-session1/lab2-1-guide.md)|[AI-100 Lab1](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab1-Technical_Requirements/01-Introduction_Case_Study.md) Lab Series Setup - Technology, environments, and keys|
 
 <pre>
 
@@ -76,7 +76,7 @@ We want to offer you two tracks. One will assume minimal coding skills as a pre-
 | Track 1: | Track 2: |
 |:---------|:---------|
 |[![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)|[![Generic badge](https://img.shields.io/badge/mode-csharp-PURPLE.svg)](https://shields.io/)|
-|[tbc - end-to-end application that uses a langague/speech service]|[AI-100 Lab2](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab2-Implement_Computer_Vision/01-Introduction.md) Create an intelligent console application for the Computer Vision API|
+|[tbc - end-to-end application that uses a langague/speech service](hands-on-session2/lab2-2-guide.md)|[AI-100 Lab2](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab2-Implement_Computer_Vision/01-Introduction.md) Create an intelligent console application for the Computer Vision API|
 
 
 
