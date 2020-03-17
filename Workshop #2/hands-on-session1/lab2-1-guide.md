@@ -72,23 +72,29 @@ TODO: add or link instructions
 
 [![Generic badge](https://img.shields.io/badge/mode-azure_cli-TEAL.svg)](https://shields.io/)
 
-The following script provisions an instance of the cognitive services required by the Intelligent Kiosk, and returns your API key.
+The following script provisions an instance of the cognitive services required by the Intelligent Kiosk, and returns your API keys.
 
 [ToDo - verify this works]
 https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk/blob/master/KeyAcquisitionScript.md
 
-### To Connect your APIs to your Kiosk application
+## 3. Connect to your Cognitive Service
+
+### To connect Kiosk application to your own service instances
 
 [![Generic badge](https://img.shields.io/badge/language-no_code-BLUE.svg)](https://shields.io/)
 
 Add your API keys to the 'settings' page of the Kiosk application.
 
-[put an image here]
+Click on <img src='./img/settings.jpg' height=40px /> in the bottom left corner of the Kiosk application.
+
+Under Cognitive Services Keys, set `Shared Keys` to off, and enter your API keys in the relevant fields.
+
+<img src='./img/custom_keys.jpg' width=60%/>
+
 
 Explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) for relevance to your business 
 
-## 3. Connect to your Cognitive Service
-### To interact with the cognitive services with python
+### To interact with your cognitive services with python
 
 [![Generic badge](https://img.shields.io/badge/language-python-YELLOW.svg)](https://shields.io/)
 
