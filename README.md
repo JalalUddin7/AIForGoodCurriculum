@@ -1,4 +1,4 @@
-# AIForGoodCurriculum
+# AI For Good Technical Curriculum
 
 ## [Workshop 1](Workshop%20%231)
 *26 February 2020*
