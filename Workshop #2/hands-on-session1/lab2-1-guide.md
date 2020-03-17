@@ -5,13 +5,13 @@ Duration: 1 - 1.5 hours
 
 [![Generic badge](https://img.shields.io/badge/STATUS-DRAFT-ORANGE.svg)](https://shields.io/)
 
-This session introduces you to to working with pre-trained models from the Azure Cognitive Services. We will focus on the **[tbc] Service** as an example.
-
+This session introduces you to to working with pre-trained models from the Azure Cognitive Services, and enables you to explore their capabilities.
+<!---
 <img src=https://docs.microsoft.com/en-us/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator.svg/>
 <img src=https://docs.microsoft.com/en-us/learn/achievements/data-ai/create-and-publish-a-luis-model.svg>
 <img src=https://docs.microsoft.com/en-us/learn/achievements/classify-user-feedback-with-the-text-analytics-api.svg>
 
-
+-->
 ## 1. Explore the Azure Cognitive Services with the Intelligent Kiosk
 
 
