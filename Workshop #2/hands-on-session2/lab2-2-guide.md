@@ -15,6 +15,9 @@ put guidance on jupyter notebooks
 - (locally don't push this)
 
 
+use some of the afternoon to prep for playback session at 1700
+- present to others what you found that might be relevant, what inspired
+
 <pre>
 
 
