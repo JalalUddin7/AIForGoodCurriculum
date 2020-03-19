@@ -12,6 +12,8 @@ We have a number of options for working with Notebooks in the cloud. This lab wa
 - Work with jupyter notebooks for data science workflows and prototying on Azure
 
 ### Steps
+0. Like you did for the Cognitive Speech Service, use the Azure Portal to provision a Translator Text Resource:
+`Create New Resource > Translator Text`
 
 1. Go to https://notebooks.azure.com, and select `Sign in` at the top right.
 2. Go to `My Projects` on the top menu bar, and click `+ New Project`.
