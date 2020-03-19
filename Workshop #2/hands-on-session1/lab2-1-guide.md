@@ -24,7 +24,12 @@ The pre-compiled Kiosk is great for an initial look. This version uses some prec
 Step 1: Download the Kiosk app from the Microsoft App Store here: https://www.microsoft.com/en-gb/p/intelligent-kiosk/9nblggh5qd84
 
 
-Step 2: [TODO] walk through a sample scenario here - let's do this one - it's cool to also show the OCR
+Step 2: Launch the application - you should arraive at a 'Demo Gallery'. Find the Translator API Panel, to load the Translator Explorer.
+
+<img src='img/kiosk_overview.jpg' />
+
+Then follow this guide to explore the capabilities of the Translator explorer.
+
 https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk/blob/master/Documentation/TranslatorExplorer.md
 
 *Note: If you speak another language, note some of the subtleties when using OCR: for example, an erroneous recognition of the word 'oceanic' as 'occanic' in this picture results in a best-guess german translation of 'okkanisch'.*
@@ -116,8 +121,7 @@ We will do a quick round-table in the debrief at the end of the day, so that we 
 
 For those of you with python skills, here is some sample code to help you learn how to interact with cognitive services with python.
 
-
-[To Do: briefly describe what this code achieves / walk through one example fully]
+You need to have provisioned your own services to do this - see for example step 2 above. (Note some of this will be easier once you have done the afternoon sessions)
 - https://github.com/caiomsouza/Microsoft-Cognitive-Services
 - https://github.com/caiomsouza/Microsoft-Cognitive-Services/tree/master/textanalytics
 
