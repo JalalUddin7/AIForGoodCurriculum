@@ -27,7 +27,7 @@ This is our first fully remote session. We want to try and emulate the feeling o
 - 🙈 Please consider turning video on. (Note the ['blur background' feature](https://support.office.com/en-us/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780)!)
 - 🙋 Do not hesitate to interact with us and with each other, throughout presentations and sessions, either via chat or via voice 
 - 👋 It is fine to step away during sessions if you need to, but please let us know with a quick note in the chat if you do so.
-- 💬 Do fill out a quick session feedback after each session at here: http://bit.ly/AI4GFeedback.
+- 💬 Do fill out a quick session feedback **after each session** at here: http://bit.ly/AI4GFeedback.
 - 👾 GIFs, memes and fun in the chat are allowed (within the normal SFW bounds of course). Enjoy the day!
 
 

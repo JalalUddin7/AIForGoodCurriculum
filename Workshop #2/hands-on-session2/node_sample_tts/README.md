@@ -1,3 +1,5 @@
+[< back](../lab2-2-guide.md)
+
 *This sample is adapted from https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cognitive-services/Speech-Service/quickstart-nodejs-text-to-speech.md*
 
 ## Introduction
@@ -59,3 +61,5 @@ This sample code demonstrates how to integrate a speech-to-text transformation i
     The app will prompt you to enter text to be transformed to speech, and will store the output in a .wav file in the same folder.
 
 For additional configuration options, see the full notes for this sample [here](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cognitive-services/Speech-Service/quickstart-nodejs-text-to-speech.md). 
+
+[Next >](../lab2-2-guide.md#3-integrate-the-speech-services-from-a-web-client-with-javascript)

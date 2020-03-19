@@ -1,3 +1,5 @@
+[< back](../lab2-2-guide.md)
+
 *Note: This sample is adapted from https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/js/browser*
 
 ## Introduction
@@ -8,7 +10,7 @@ See [this article](https://docs.microsoft.com/azure/cognitive-services/speech-se
 
 ## 1. Configure
 
-* Ensure that the `js_sample_stt` folder is available on your local machine.
+* Ensure that the [js_sample_stt](../js_sample_stt) folder from this repo is available on your local machine.
 * Note: the sdk is already present in the js_sample_stt folder. If you need to download it for your own projects, you can get it here: [Speech SDK for JavaScript .zip package](https://aka.ms/csspeech/jsbrowserpackage).
 
 ## 2. Run
@@ -16,7 +18,7 @@ See [this article](https://docs.microsoft.com/azure/cognitive-services/speech-se
 To be able to properly access the microphone, it is best to run the app on a web server. 
 We can spin up a simple one with python:
 
-In the js_sample_stt folder, run the following:
+Within the `js_sample_stt` folder on your machine, run the following:
 ```py
 # for python 2
 python -m http.server
@@ -31,6 +33,8 @@ Remember to set both your key and your region in the relevant fields.
 
 >⚠️ Note that we have not configured the Azure Language Understanding Intelligent Service (LUIS), and so intent recognition will not be available in your app. We will cover LUIS in later labs, but feel free to explore further in the references below.
 
+
+[Next >](../lab2-2-guide.md#give-session-feedback)
 
 <hr>
 

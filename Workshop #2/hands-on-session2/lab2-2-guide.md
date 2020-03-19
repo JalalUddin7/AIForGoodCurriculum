@@ -16,7 +16,7 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 ## 1. Transcribe speech from your microphone with a python console app
 [![Generic badge](https://img.shields.io/badge/mode-python-BLUE.svg)](https://shields.io/)
 
-### Lab objectives
+#### Lab objectives
 - Be set up to work with python on your local machine
 - Introduction to the python cognitive services speech SDK to integrate cognitive services into python applications.
 
@@ -26,7 +26,7 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 ## 2. Convert written text to speech with a node.js console app
 [![Generic badge](https://img.shields.io/badge/mode-nodejs-GREEN.svg)](https://shields.io/)
 
-### Lab objectives
+#### Lab objectives
 - Learn how to integrate cognitive services into node.js applications. Node.js is a common implementation for building custom backends (APIs) for web applications. 
 
 > -> go to [instructions](node_sample_tts/README.md)
@@ -36,7 +36,7 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 ## 3. Integrate the speech services from a web client with javascript
 [![Generic badge](https://img.shields.io/badge/mode-javascript-YELLOW.svg)](https://shields.io/)
 
-Lab objectives
+#### Lab objectives
 - Work with the speech sdk for frontend javascript
 - Build a basic web application that interacts with your cognitive services
 

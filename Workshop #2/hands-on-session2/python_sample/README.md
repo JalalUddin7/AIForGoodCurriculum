@@ -1,3 +1,5 @@
+[< back](../lab2-2-guide.md)
+
 *This sample is adapted from https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/*
 
 <hr>
@@ -54,4 +56,4 @@ To do this, steps 1-2 below help you set up conda to manage consistent python en
    The script will record any spoken phrase until a significant pause is reached, and will then output the transcription to your console.
 
 
-
+[Next >](../lab2-2-guide.md#2-convert-written-text-to-speech-with-a-nodejs-console-app)
