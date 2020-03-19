@@ -8,7 +8,11 @@
 <img src='./img/presentation2.jpg' border=2 width=70% />
 
 <hr>
-[-- shared link to presentation deck and replay to follow --]
+
+- [Presentation slides](https://microsofteur.sharepoint.com/:p:/r/teams/MicrosoftAIforGoodUK2020/Shared%20Documents/AI%20Engineering%20Curriculum/2020-03-19%201330%20Responsible%20AI%20in%20Practice/20200319-responsibleAI%20in%20Practice-FINAL.pptx?d=wc53df60737624f2d9ed176825b005c09&csf=1&e=0zPYZV)
+
+- [-- shared link to replay to follow --]
+
 <hr>
 
 
