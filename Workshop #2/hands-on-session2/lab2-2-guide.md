@@ -32,8 +32,17 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 > -> go to [instructions](node_sample_tts/README.md)
 
 
+## 3. Translate text within a Jupyter Notebook
+[![Generic badge](https://img.shields.io/badge/mode-python-BLUE.svg)](https://shields.io/)
 
-## 3. Integrate the speech services from a web client with javascript
+### Lab objectives
+- Get to know the Azure Cognitive Translation Service
+- Work with jupyter notebooks for data science workflows and prototying on Azure
+
+> -> go to [instructions](nb_sample/README.md)
+
+
+## 4. Integrate the speech services from a web client with javascript
 [![Generic badge](https://img.shields.io/badge/mode-javascript-YELLOW.svg)](https://shields.io/)
 
 #### Lab objectives
@@ -42,15 +51,7 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 
 > -> go to [instructions](js_sample_stt/README.md)
 
-<!-- ## 4. Translate speech within a jupyter notebook
-[![Generic badge](https://img.shields.io/badge/mode-python-BLUE.svg)](https://shields.io/)
 
-### Lab objectives
-- Get to know the Azure Cognitive Translation Service
-- Work with jupyter notebooks for data science workflows on Azure
-
-> -> go to [instructions](nb_sample/README.md)
--->
 <hr>
 
 ## Give Session Feedback

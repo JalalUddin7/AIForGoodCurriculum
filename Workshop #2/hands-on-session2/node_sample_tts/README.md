@@ -62,4 +62,4 @@ This sample code demonstrates how to integrate a speech-to-text transformation i
 
 For additional configuration options, see the full notes for this sample [here](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cognitive-services/Speech-Service/quickstart-nodejs-text-to-speech.md). 
 
-[Next >](../lab2-2-guide.md#3-integrate-the-speech-services-from-a-web-client-with-javascript)
+[Next >](../lab2-2-guide.md#3-translate-text-within-a-jupyter-notebook)
