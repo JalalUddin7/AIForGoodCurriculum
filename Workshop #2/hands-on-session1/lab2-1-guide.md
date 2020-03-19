@@ -31,7 +31,7 @@ https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk/blob/master/Docu
 
 <img src='./img/OCR.jpg' />
 
-**Option 2**: Run the Kiosk locally with Visual Studio
+<!-- **Option 2**: Run the Kiosk locally with Visual Studio
 
 [![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
 
@@ -43,15 +43,16 @@ https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 
 Step 2: Follow the guidance on [this](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Running-the-sample) page to load the Kiosk solution into Visual Studio 
 
-<!--- probably update step 2 to put instructions inline, so as not to confuse the API configuration step -->
 
 Next: This local version does not have any preconfigured API connections [TODO - verify this!], so please move on to 2. below to provision your own.
-
+-->
 
 
 ## 2. Provision your own Cognitive Services instances
 
 In this section, we will show you how to obtain your own API keys for cognitive services with your subscription. 
+
+> 💡 **Hint:** You may already have done this if you worked through the pre-requisite learning material in your own subscription.
 
 You can connect these to your Kiosk, or explore below other ways of interacting with these service instances.
 
@@ -59,23 +60,26 @@ You can connect these to your Kiosk, or explore below other ways of interacting 
 
 [![Generic badge](https://img.shields.io/badge/mode-no_code-BLUE.svg)](https://shields.io/)
 
-Here, we'll use the Azure portal to obtain your own API key for the [tbc] service that you will also be working with this afternoon.
+Here, we'll use the Azure portal to obtain your own API key for the Cognitive Services that you will also be working with this afternoon.
 
-<pre>
 
-TODO: add or link instructions
+1. Create a Speech Resource
 
-</pre>
+    https://docs.microsoft.com/en-gb/learn/modules/convert-speech-to-text/3-subscribe-to-speech-translation-api
+2. View subscription keys and endpoints
+
+    https://docs.microsoft.com/en-gb/learn/modules/convert-speech-to-text/4-viewing-access-keys-and-endpoints
 
 
 **Option 2:** Set up all required services with an azure-cli script 
 
 [![Generic badge](https://img.shields.io/badge/mode-azure_cli-TEAL.svg)](https://shields.io/)
 
-The following script provisions an instance of the cognitive services required by the Intelligent Kiosk, and returns your API keys.
+If you have worked with the azure-cli before, the following script provisions an instance of the cognitive services required by the Intelligent Kiosk, and returns your API keys.
 
-[ToDo - verify this works]
 https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk/blob/master/KeyAcquisitionScript.md
+
+> 💡 **Tip:** For users already familiar with Azure, this is a good opportunity to familiarise yourself with template-driven provisioning of resources - review the script and try to make some changes.
 
 ## 3. Connect to your Cognitive Service
 
@@ -92,9 +96,21 @@ Under Cognitive Services Keys, set `Shared Keys` to off, and enter your API keys
 <img src='./img/custom_keys.jpg' width=60%/>
 
 
-Explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) for relevance to your business 
+## 4. Explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) 
 
-### To interact with your cognitive services with python
+Use any remaining time to explore some of the [documented scenarios](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk#Scenarios) in your Kiosk application, and prepare a few notes as to what appears relevant to your business and what this exercise has inspired you to explore further.
+We will do a quick round-table in the debrief at the end of the day, so that we can use this to tailor the follow on technical workshops.
+
+<hr>
+
+## Give Session Feedback
+> 💬 Please fill out the session feedback: http://bit.ly/AI4GFeedback 💬
+
+<hr>
+
+
+## Go Further
+#### To interact with your cognitive services with python
 
 [![Generic badge](https://img.shields.io/badge/language-python-YELLOW.svg)](https://shields.io/)
 

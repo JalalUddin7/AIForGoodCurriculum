@@ -12,6 +12,10 @@
 <hr>
 
 
+> 💬 Please fill out the session feedback after the session: http://bit.ly/AI4GFeedback 💬
+
+<hr>
+
 ## Links and references
 #### Envisioning
 - AI Business School: https://www.microsoft.com/en-us/ai/ai-business-school

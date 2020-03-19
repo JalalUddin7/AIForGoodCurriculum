@@ -6,3 +6,8 @@
 <hr>
 [-- shared link to presentation deck and replay to follow --]
 <hr>
+
+
+> 💬 Please fill out the session feedback after the session: http://bit.ly/AI4GFeedback 💬
+
+<hr>
