@@ -48,7 +48,7 @@ This is our first fully remote session. We want to try and emulate the feeling o
 |13:30 - 14:15 | [Presentation:](additional_material/presentation2.md) **Responsible AI in Practice** - *Benedict Faria & Dr Linda C M Sheard* |
 |14:15 - 14:30 | - *Break* - |
 |14:30 - 16:00 | [Hands-on session 2:](#Hands-on-session-2) **Integrating pre-trained models into your data pipeline or application** |
-|16:00 - 17:00 | Session playback and debrief |
+|16:10 - 17:00 | Session playback and debrief: [Wiki](https://teams.microsoft.com/l/channel/19%3Af1e304e4b1f74299b675f415bfdfeae6%40thread.tacv2/tab%3A%3Ae697afed-3e84-4532-bc61-565ff8035c0f?groupId=c042e6b8-ae71-4a65-b5d9-6f629cca1db1&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) |
 
 <pre>
 
