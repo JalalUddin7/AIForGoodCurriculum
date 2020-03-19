@@ -132,6 +132,8 @@ AI-100 Azure AI Engineer Certification
 
 Cognitive Services:
 
+- main documentation link for all Cognitive Services: [https://docs.microsoft.com/en-us/azure/cognitive-services/](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+
 - try out alternative SDKs here: [Cognitive Services Quickstarts](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
 
 
