@@ -1,6 +1,6 @@
 [< back](../Lab2.md#The-Plan-for-the-Day)
 
-# Lab 2.2: Working with Cognitve Speech Services
+# Lab 2.2: Working with Cognitve Text and Speech Services
 
 In this session, we will take a closer look at how to integrate pretrained models into your data pipelines and applications.
 
