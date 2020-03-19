@@ -47,7 +47,7 @@ This sample code demonstrates how to integrate a speech-to-text transformation i
     export SPEECH_SERVICE_KEY='Your_Cognitive_Services_Key'
     ```
 
-    Windows:
+    Windows (tested in Powershell):
     ```ps
     $env:SPEECH_SERVICE_KEY = 'Your_Cognitive_Services_Key'
     ```
