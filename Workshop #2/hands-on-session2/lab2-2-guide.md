@@ -52,10 +52,6 @@ Make sure that you have the files in the 'hands-on-session2' folder availalbe lo
 > -> go to [instructions](js_sample_stt/README.md)
 
 
-<hr>
-
-## Give Session Feedback
-> 💬 Please fill out the session feedback: http://bit.ly/AI4GFeedback 💬
 
 <hr>
 

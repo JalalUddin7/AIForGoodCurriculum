@@ -108,10 +108,6 @@ We will do a quick round-table in the debrief at the end of the day, so that we 
 
 <hr>
 
-## Give Session Feedback
-> 💬 Please fill out the session feedback: http://bit.ly/AI4GFeedback 💬
-
-<hr>
 
 
 ## Go Further

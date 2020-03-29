@@ -27,7 +27,7 @@ This is our first fully remote session. We want to try and emulate the feeling o
 - 🙈 Please consider turning video on. (Note the ['blur background' feature](https://support.office.com/en-us/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780)!)
 - 🙋 Do not hesitate to interact with us and with each other, throughout presentations and sessions, either via chat or via voice 
 - 👋 It is fine to step away during sessions if you need to, but please let us know with a quick note in the chat if you do so.
-- 💬 Do fill out a quick session feedback **after each session** at here: http://bit.ly/AI4GFeedback.
+- 💬 Do fill out a quick session feedback **after each session**.
 - 👾 GIFs, memes and fun in the chat are allowed (within the normal SFW bounds of course). Enjoy the day!
 
 
@@ -69,9 +69,7 @@ We want to offer you two tracks. One will assume minimal coding skills as a pre-
 
 <hr>
 
-> 💬 Please fill out the session feedback after the session: http://bit.ly/AI4GFeedback 💬
 
-<hr>
 <pre>
 
 
@@ -87,9 +85,7 @@ We want to offer you two tracks. One will assume minimal coding skills as a pre-
 |[Integrate Cognitive Speech services into applications](hands-on-session2/lab2-2-guide.md)|[AI-100 Lab2](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol/blob/master/Lab2-Implement_Computer_Vision/01-Introduction.md) Create an intelligent console application for the Computer Vision API|
 <hr>
 
-> 💬 Please fill out the session feedback after the session: http://bit.ly/AI4GFeedback 💬
 
-<hr>
 
 
 
